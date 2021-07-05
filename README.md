@@ -12,7 +12,7 @@ It encapsulated the following:
 # Workings
 
 ### Data Modeling
-Inspected the CSVs and sketched out an ERD of the tables.
+Inspected the CSVs and sketched out an Entity Relationship Diagram (ERD) of the tables.
 
 ### Data Engineering
 
